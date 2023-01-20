@@ -30,6 +30,7 @@ In the terminal, run command,
 ## Get Access Link For a Particular Blob
 1. Open the python file and add the primary key for the Storage Bucket in the ```AZURE_PRIMARY_KEY``` key of ```env_variables``` dictionary.
 2. Add the storage account name in the ```AZURE_ACC_NAME``` key of ```env_variables``` dictionary.
+
 In the terminal, run command,
 
 ```python 
