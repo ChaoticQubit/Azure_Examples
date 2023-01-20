@@ -3,7 +3,8 @@
 2. Navigate to your storage account.
 3. Click on the "Access Keys" function.
 4. Show and Copy the connection string.
-5. Replace the old connection string in the conn_string.txt file with the newly copied connection string.
+5. Create a file named "conn_string.txt" in the same directory as the python file.
+5. Paste your newly copied connection string in this file.
 
 ## Creating a Container
 In the terminal, run command,
