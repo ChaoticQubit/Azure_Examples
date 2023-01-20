@@ -29,8 +29,8 @@ def getBlobls(**kwargs):
         print(ex)
 
 env_variables = {
-    'AZURE_ACC_NAME': 'teststorearman',
-    'AZURE_PRIMARY_KEY': 'jXm/QnfXRrOfrrmanYjbSPmNAfw0ipCOJaWwc4VAcLZtGPhfwyJ6jwpGekAsIqiG51/PNm03ip1k+AStuWP5Pw==',
+    'AZURE_ACC_NAME': '',
+    'AZURE_PRIMARY_KEY': '',
     'AZURE_CONTAINER': '',
     'AZURE_BLOB': '',
     'AZURE_SAS_EXPIRY': 1
